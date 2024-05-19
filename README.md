@@ -4,3 +4,4 @@
 # CodSoft
 ## 🌟 Embarking on the CodSoft Learning Journey! 🚀
 ### I,m  🌟 Excited to share my journey with CodSoft as a Python Developer Intern. From mastering the basics of Python to crafting user-friendly applications, it's been an incredible ride of growth and learning. 💻✨
+***🔍 Task 001: To-Do list Application***This is a simple command-line to-do list application built using Python. It allows users to manage their tasks by adding, completing, and deleting items from the list. The application stores the to-do list in a text file, so the user's tasks persist even after the program is closed and reopened. The user can view a list of all their current tasks, mark tasks as complete, and remove tasks that are no longer needed. . 🎮💡
